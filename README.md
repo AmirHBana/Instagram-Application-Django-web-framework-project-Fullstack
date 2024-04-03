@@ -7,11 +7,7 @@
 <p> At first you need go to the directory you want to clone this project </p>
 <br>
 
-<hr>
-
-<h3><strong> $> git clone https://github.com/AmirHBana/Instagram-Application-Django-web-framework-project-Fullstack.git </strong></h3>
-
-<hr>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Instagram-Application-Django-web-framework-project-Fullstack.git</pre></div>
 
 <br><br>
 
@@ -23,42 +19,35 @@
   after you activate your venv install python packages below in to your venv
 </p>
 
-<hr>
 
 <br>
 
-<h3> <strong> <hr>
-        $> pip install django==4.2.8 <br> <hr>
-        $> pip install dj-database-url==0.5.0 <br> <hr>
-        $> pip install django-allauth==0.47.0 <br> <hr>
-        $> pip install django-appconf==1.0.5 <br> <hr>
-        $> pip install django-bootstrap4==3.0.1 <br> <hr>
-        $> pip install django-celery-beat==2.2.1 <br> <hr>
-        $> pip install django-ckeditor==6.1.0 <br> <hr>
-        $> pip install django-cors-headers==3.5.0 <br> <hr>
-        $> pip install django-crispy-forms==1.12.0 <br> <hr>
-        $> pip install django-debug-toolbar==2.2 <br> <hr>
-        $> pip install django-filter==21.1 <br> <hr>
-        $> pip install django-formset-js-improved==0.5.0.2 <br> <hr>
-        $> pip install django-heroku==0.3.1 <br> <hr>
-        $> pip install django-static-fontawesome==5.14.0.0 <br> <hr>
-        $> pip install django-storages==1.12.3 <br> <hr>
-        $> pip install gunicorn==20.0.4 <br> <hr>
-        $> pip install h11==0.9.0 <br> <hr>
-        $> pip install Pillow==8.3.1 <br> <hr>
-        $> pip install h2==3.2.0 <br> <hr>
-        $> pip install hpack==3.0.0 <br> <hr>
-        $> pip install hstspreload==2021.8.1 <br> <hr>
-        $> pip install whitenoise==5.2.0 <br> <hr>
-        $> pip install psycopg2-binary==2.9.9 <br> <hr>
-        $> pip install psycopg2==2.9.9 <br> <hr>
-        $> pip install boto3==1.34.74 <br> <hr>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django==4.2.9</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install dj-database-url==0.5.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-allauth==0.47.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-appconf==1.0.5</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-bootstrap4==3.0.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-celery-beat==2.2.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-ckeditor==6.1.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-cors-headers==3.5.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install boto3==1.34.74</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install psycopg2==2.9.9</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install psycopg2-binary==2.9.9</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install whitenoise==5.2.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install hstspreload==2021.8.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install hpack==3.0.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install h2==3.2.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install Pillow==8.3.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-crispy-forms==1.12.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-debug-toolbar==2.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-filter==21.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-formset-js-improved==0.5.0.2</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-heroku==0.3.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-static-fontawesome==5.14.0.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-storages==1.12.3</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install gunicorn==20.0.4</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install h11==0.9.0</pre></div>
 
-</strong> </h3>
-
-<br>
-
-<hr>
 
 <br>
 
@@ -70,7 +59,11 @@
 
 <hr>
 
-<h3> <strong>  $> python manage.py runserver </strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py makemigrations</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py migrate</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py runserver</pre></div>
 
 <hr>
 
